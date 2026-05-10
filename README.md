@@ -43,7 +43,7 @@ My analytical mindset extends beyond technology. Away from the screen, I have a 
 ---
 
 ### 📬 Connect with Me
-* **LinkedIn:** (https://www.linkedin.com/in/kien-dang-trung-8261a6390/)
+* **LinkedIn:** https://www.linkedin.com/in/kien-dang-trung-8261a6390/
 * **Email:** trungkien2282005@gmail.com
 * **Portfolio:** [Insert After]
 
