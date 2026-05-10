@@ -43,9 +43,9 @@ My analytical mindset extends beyond technology. Away from the screen, I have a 
 ---
 
 ### 📬 Connect with Me
-* **LinkedIn:** [Insert Link]
-* **Email:** [Insert Email]
-* **Portfolio:** [Insert Link]
+* **LinkedIn:** (https://www.linkedin.com/in/kien-dang-trung-8261a6390/)
+* **Email:** trungkien2282005@gmail.com
+* **Portfolio:** [Insert After]
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
